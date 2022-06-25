@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1" type="p">
+  <sentence id="s1">
+   <tok>
+    <orth>Płock</orth>
+    <lex disamb="1"><base>Płock</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city" head="1">1</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>–</orth>
+    <lex disamb="1"><base>–</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>miasto</orth>
+    <lex disamb="1"><base>miasto</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="emotion_name:4845">zaufanie</prop>
+    <prop key="emotion_valuations:4845">szczęście</prop>
+    <prop key="polarity:225026">0</prop>
+    <prop key="polarity:385227">0</prop>
+    <prop key="polarity:4845">0</prop>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:7974">0</prop>
+   </tok>
+   <tok>
+    <orth>Polsce</orth>
+    <lex disamb="1"><base>Polska</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country" head="1">1</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>prawach</orth>
+    <lex disamb="1"><base>prawo</base><ctag>subst:pl:loc:n</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:1311">0</prop>
+    <prop key="polarity:52812">0</prop>
+   </tok>
+   <tok>
+    <orth>powiatu</orth>
+    <lex disamb="1"><base>powiat</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:5475">0</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>położone</orth>
+    <lex disamb="1"><base>położyć</base><ctag>ppas:pl:nom:f:perf:aff</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="emotion_name:7079135">złość,radość,smutek</prop>
+    <prop key="emotion_name:7079138">złość,smutek,cieszenie się na coś oczekiwanego</prop>
+    <prop key="emotion_name:7079140">złość,radość,smutek</prop>
+    <prop key="emotion_valuations:7079135">szczęście,nieszczęście,użyteczność,nieużyteczność</prop>
+    <prop key="emotion_valuations:7079138">użyteczność,nieużyteczność</prop>
+    <prop key="emotion_valuations:7079140">szczęście,nieszczęście,użyteczność,nieużyteczność</prop>
+    <prop key="polarity:224769">0</prop>
+    <prop key="polarity:224770">0</prop>
+    <prop key="polarity:56107">0</prop>
+    <prop key="polarity:7076148">0</prop>
+    <prop key="polarity:7079135">amb</prop>
+    <prop key="polarity:7079138">-1</prop>
+    <prop key="polarity:7079139">0</prop>
+    <prop key="polarity:7079140">amb</prop>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>Pojezierzu</orth>
+    <lex disamb="1"><base>pojezierze</base><ctag>subst:sg:loc:n</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region" head="1">1</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:24618">0</prop>
+   </tok>
+   <tok>
+    <orth>Dobrzyńskim</orth>
+    <lex disamb="1"><base>dobrzyński</base><ctag>adj:sg:loc:n:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">1</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:7974">0</prop>
+   </tok>
+   <tok>
+    <orth>Kotlinie</orth>
+    <lex disamb="1"><base>kotlina</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_fac_goe" head="1">1</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:603">0</prop>
+   </tok>
+   <tok>
+    <orth>Płockiej</orth>
+    <lex disamb="1"><base>płocki</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>nad</orth>
+    <lex disamb="1"><base>nad</base><ctag>prep:inst:nwok</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:240182">0</prop>
+   </tok>
+   <tok>
+    <orth>Wisłą</orth>
+    <lex disamb="1"><base>Wisła</base><ctag>subst:sg:inst:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river" head="1">1</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:7974">0</prop>
+   </tok>
+   <tok>
+    <orth>województwie</orth>
+    <lex disamb="1"><base>województwo</base><ctag>subst:sg:loc:n</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:3829">0</prop>
+   </tok>
+   <tok>
+    <orth>mazowieckim</orth>
+    <lex disamb="1"><base>mazowiecki</base><ctag>adj:sg:loc:n:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1" head="1">1</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>siedziba</orth>
+    <lex disamb="1"><base>siedziba</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:4833">0</prop>
+    <prop key="polarity:5385">0</prop>
+   </tok>
+   <tok>
+    <orth>ziemskiego</orth>
+    <lex disamb="1"><base>ziemski</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>powiatu</orth>
+    <lex disamb="1"><base>powiat</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:5475">0</prop>
+   </tok>
+   <tok>
+    <orth>płockiego</orth>
+    <lex disamb="1"><base>płocki</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2" head="1">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>;</orth>
+    <lex disamb="1"><base>;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>historyczna</orth>
+    <lex disamb="1"><base>historyczny</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>stolica</orth>
+    <lex disamb="1"><base>stolica</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="emotion_name:236789">zaufanie</prop>
+    <prop key="emotion_valuations:236789">użyteczność</prop>
+    <prop key="polarity:236789">1</prop>
+    <prop key="polarity:4844">0</prop>
+   </tok>
+   <tok>
+    <orth>Mazowsza</orth>
+    <lex disamb="1"><base>Mazowsze</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city" head="1">2</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>oraz</orth>
+    <lex disamb="1"><base>oraz</base><ctag>conj</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>stolica</orth>
+    <lex disamb="1"><base>stolica</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="emotion_name:236789">zaufanie</prop>
+    <prop key="emotion_valuations:236789">użyteczność</prop>
+    <prop key="polarity:236789">1</prop>
+    <prop key="polarity:4844">0</prop>
+   </tok>
+   <tok>
+    <orth>Polski</orth>
+    <lex disamb="1"><base>Polska</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country" head="1">2</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:7974">0</prop>
+   </tok>
+   <tok>
+    <orth>latach</orth>
+    <lex disamb="1"><base>rok</base><ctag>subst:pl:loc:m3</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:2913">0</prop>
+    <prop key="polarity:65377">0</prop>
+    <prop key="polarity:65382">0</prop>
+   </tok>
+   <tok>
+    <orth>1079</orth>
+    <lex disamb="1"><base>1079</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>–</orth>
+    <lex disamb="1"><base>–</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1138</orth>
+    <lex disamb="1"><base>1138</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>;</orth>
+    <lex disamb="1"><base>;</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>siedziba</orth>
+    <lex disamb="1"><base>siedziba</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:4833">0</prop>
+    <prop key="polarity:5385">0</prop>
+   </tok>
+   <tok>
+    <orth>rzymskokatolickiej</orth>
+    <lex disamb="1"><base>rzymskokatolicki</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>kurii</orth>
+    <lex disamb="1"><base>kuria</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:16066">0</prop>
+    <prop key="polarity:238793">0</prop>
+    <prop key="polarity:403603">0</prop>
+   </tok>
+   <tok>
+    <orth>diecezji</orth>
+    <lex disamb="1"><base>diecezja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:403151">0</prop>
+    <prop key="polarity:8751">0</prop>
+   </tok>
+   <tok>
+    <orth>płockiej</orth>
+    <lex disamb="1"><base>płocki</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1075</orth>
+    <lex disamb="1"><base>1075</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>siedziba</orth>
+    <lex disamb="1"><base>siedziba</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:4833">0</prop>
+    <prop key="polarity:5385">0</prop>
+   </tok>
+   <tok>
+    <orth>biskupa</orth>
+    <lex disamb="1"><base>biskup</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:207">0</prop>
+   </tok>
+   <tok>
+    <orth>naczelnego</orth>
+    <lex disamb="1"><base>naczelny</base><ctag>adj:sg:gen:m1:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:13214">0</prop>
+   </tok>
+   <tok>
+    <orth>Kościoła</orth>
+    <lex disamb="1"><base>kościół</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization" head="1">1</ann>
+    <prop key="polarity:1380">0</prop>
+    <prop key="polarity:403046">0</prop>
+    <prop key="polarity:4838">0</prop>
+   </tok>
+   <tok>
+    <orth>Starokatolickiego</orth>
+    <lex disamb="1"><base>starokatolicki</base><ctag>adj:sg:gen:m1:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+   </tok>
+   <tok>
+    <orth>Mariawitów</orth>
+    <lex disamb="1"><base>mariawita</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>port</orth>
+    <lex disamb="1"><base>port</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:5476">0</prop>
+   </tok>
+   <tok>
+    <orth>rzeczny</orth>
+    <lex disamb="1"><base>rzeczny</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>rafineria</orth>
+    <lex disamb="1"><base>rafineria</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:5399">0</prop>
+    <prop key="polarity:55667">0</prop>
+   </tok>
+   <tok>
+    <orth>ropy</orth>
+    <lex disamb="1"><base>ropa</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:40802">0</prop>
+    <prop key="polarity:5296">0</prop>
+   </tok>
+   <tok>
+    <orth>naftowej</orth>
+    <lex disamb="1"><base>naftowy</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1964</orth>
+    <lex disamb="1"><base>1964</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>szkoły</orth>
+    <lex disamb="1"><base>szkoła</base><ctag>subst:pl:nom:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="emotion_name:19898">wstręt,złość,smutek</prop>
+    <prop key="emotion_name:4766">wstręt,złość</prop>
+    <prop key="emotion_valuations:19898">nieszczęście,błąd</prop>
+    <prop key="emotion_valuations:4766">błąd,krzywda</prop>
+    <prop key="polarity:19510">0</prop>
+    <prop key="polarity:19898">-1</prop>
+    <prop key="polarity:4766">-1</prop>
+    <prop key="polarity:52303">0</prop>
+    <prop key="polarity:52315">0</prop>
+   </tok>
+   <tok>
+    <orth>wyższe</orth>
+    <lex disamb="1"><base>wysoki</base><ctag>adj:pl:nom:f:com</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>teatry</orth>
+    <lex disamb="1"><base>teatr</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:16264">0</prop>
+    <prop key="polarity:4881">0</prop>
+    <prop key="polarity:80128">0</prop>
+    <prop key="polarity:80131">0</prop>
+    <prop key="polarity:8678">0</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+   <tok>
+    <orth>muzea</orth>
+    <lex disamb="1"><base>muzeum</base><ctag>subst:pl:nom:n</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+    <prop key="polarity:893">0</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_country_region">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_hydronym_river">0</ann>
+    <ann chan="nam_org_organization">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2" type="p">
+  <sentence id="s2">
+   <tok>
+    <orth>Polskie</orth>
+    <lex disamb="1"><base>polski</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <ann chan="nam_adj_country" head="1">1</ann>
+   </tok>
+   <tok>
+    <orth>miasto</orth>
+    <lex disamb="1"><base>miasto</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam_adj_country">0</ann>
+    <prop key="emotion_name:4845">zaufanie</prop>
+    <prop key="emotion_valuations:4845">szczęście</prop>
+    <prop key="polarity:225026">0</prop>
+    <prop key="polarity:385227">0</prop>
+    <prop key="polarity:4845">0</prop>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj_country">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>bohater</orth>
+    <lex disamb="1"><base>bohater</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_adj_country">0</ann>
+    <prop key="emotion_name:246132">zaufanie,radość</prop>
+    <prop key="emotion_valuations:246132">dobro,użyteczność</prop>
+    <prop key="polarity:226989">0</prop>
+    <prop key="polarity:246132">1</prop>
+    <prop key="polarity:43485">0</prop>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj_country">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>1921</orth>
+    <lex disamb="1"><base>1921</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_adj_country">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj_country">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_adj_country">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>
